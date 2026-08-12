@@ -47,3 +47,17 @@ Before building the dashboard, I performed the following to gain a better unders
 * Gender
 * Category
 * Shipping type
+
+## Future improvements
+* Add drilldowns to drill into customer
+* Deeper dive into purchase frequencies
+
+## Key takeaways 
+
+* Seasonal patterns strongly influence purchases
+  * Customers buy different product types depending on the season.
+
+* High review ratings correlate with higher purchase amounts
+  * Many high-value purchases have strong review scores.
+
+* Younger customers tend to buy lower-cost items
